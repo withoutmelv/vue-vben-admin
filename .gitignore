@@ -1,6 +1,5 @@
 node_modules
 .DS_Store
-dist
 .cache
 .turbo
 
@@ -32,3 +31,5 @@ package-lock.json
 pnpm-lock.yaml
 
 .history
+
+.vercel
